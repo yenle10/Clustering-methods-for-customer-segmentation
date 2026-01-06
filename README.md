@@ -3,10 +3,12 @@ Goal of the project: We use machine learning clustering algorithms to analyze th
 Outline
 
 i. Exploratory Data Analysis (EDA)
+
 Missing value, Outliers handle
 Correlation matrix
 
 ii. Clustering methods
+
 Dimension reduction: PCA and Plot of Cumulative Variance Explained by Principal components
 Hierarchical clustering (Dendogram), Kmeans (Elbow, Silhouette Method)
 DBSCAN, Spectral clustering
