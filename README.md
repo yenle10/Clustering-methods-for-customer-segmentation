@@ -5,11 +5,15 @@ Outline
 i. Exploratory Data Analysis (EDA)
 
 Missing value, Outliers handle
+
 Correlation matrix
 
 ii. Clustering methods
 
 Dimension reduction: PCA and Plot of Cumulative Variance Explained by Principal components
+
 Hierarchical clustering (Dendogram), Kmeans (Elbow, Silhouette Method)
+
 DBSCAN, Spectral clustering
+
 Gaussian Mixture Model with four covariance types and BIC, AIC score
